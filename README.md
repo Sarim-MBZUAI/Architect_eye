@@ -99,5 +99,5 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 This was done as a course project for AI-701 at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-For any inquiries or further information, please reach out to [abhishek.basu@mbzuai.ac.ae].
-"# Architect_eye" 
+For any inquiries or further information, please reach out to [sarim.hashmi@mbzuai.ac.ae].
+
