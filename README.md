@@ -18,6 +18,12 @@ This project presents a deep learning-based solution for automated bridge damage
 
 Our Model Weights can be found at [Model Weights](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/abhishek_basu_mbzuai_ac_ae/El8682rpwt5Ipi2tO5yPb38B1UJfZeFtUxKtIgxVl7lL6Q?e=Rf9yvB)
 
+<p align="center">
+  <img src="https://github.com/Sarim-MBZUAI/Architect_eye/blob/main/Segmented_images.png" alt="Our model output" width="75%"/>
+  <br>
+  <strong>Figure 1:</strong>  Our Model output
+</p>
+
 ## File Descriptions
 
 - `create_pt_files.py`: Processes the 'dacl10k' dataset, resizing images and preparing them for training.
