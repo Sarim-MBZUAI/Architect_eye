@@ -45,7 +45,7 @@ Download the dataset
 Create a virtual environment using Conda to manage dependencies:
 
 ```bash
-conda create -n bridge-detection python=3.8
+conda create -n bridge-detection python=3.8 -y
 conda activate bridge-detection
 pip install -r requirements.txt
 ```
